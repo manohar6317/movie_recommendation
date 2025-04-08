@@ -8,6 +8,14 @@ Browse personalized suggestions with a familiar and intuitive interface.
 
 Ensure your MongoDB URI is correctly configured in the .env file to get started.
 
+![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+
+![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+
+![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+
+![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+
 ## Installation Instructions
 
 Follow these steps to set up the project on your local machine:
