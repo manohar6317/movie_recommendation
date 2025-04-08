@@ -1,6 +1,6 @@
 # Movie Recommend
 
-**Short Description:** 
+## **Short Description:** 
 
 This movie recommendation engine, developed using the MERN stack, includes a Netflix-inspired UI.
 
@@ -8,13 +8,26 @@ Browse personalized suggestions with a familiar and intuitive interface.
 
 Ensure your MongoDB URI is correctly configured in the .env file to get started.
 
-![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+## Screenshots
 
-![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+**SignUp page**
 
-![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+![Signup Page Screenshot](images/signup.png)
 
-![Main Page Screenshot](path/to/your/main-page-screenshot.png)
+**Login Page**
+
+![Login Page Screenshot](images/login.png)
+
+**Home Page**
+
+![Home Page Screenshot](images/home.png)
+
+**Browse Page**
+
+![Browse Page Screenshot](images/browse.png)
+
+**Search Page**
+![Search Page Screenshot](images/search.png)
 
 ## Installation Instructions
 
