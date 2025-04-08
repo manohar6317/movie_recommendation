@@ -1,8 +1,11 @@
 # Movie Recommend
 
-**Short Description:** It generated jsdgfijek kjsdufgseuhfh
+**Short Description:** 
+This movie recommendation engine, developed using the MERN stack, includes a Netflix-inspired UI.
 
-This project utilizes the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Tailwind CSS.
+Browse personalized suggestions with a familiar and intuitive interface.
+
+Ensure your MongoDB URI is correctly configured in the .env file to get started.
 
 ## Installation Instructions
 
