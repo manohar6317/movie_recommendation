@@ -30,3 +30,9 @@ After the build process is complete, in the same parent directory, run the follo
 
 ```bash
 npm run start
+```
+
+## Important Note
+
+* **MongoDB Setup:** You need to create an account on MongoDB Atlas (or set up a local MongoDB instance).
+* **`.env` Configuration:** Locate the `.env` file in your project's root directory. Open this file and replace the placeholder value for `MONGO_URI` with the actual connection string you obtain from your MongoDB setup. This is crucial for the application to connect to your database.
