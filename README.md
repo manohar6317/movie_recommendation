@@ -1,6 +1,7 @@
 # Movie Recommend
 
 **Short Description:** 
+
 This movie recommendation engine, developed using the MERN stack, includes a Netflix-inspired UI.
 
 Browse personalized suggestions with a familiar and intuitive interface.
